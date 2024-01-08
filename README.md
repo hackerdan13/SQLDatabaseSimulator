@@ -1,2 +1,6 @@
 # SQLDatabaseSimulator
-This will go through creating a SQL Data and simulating data within that SQL server. The server can then be used for whatever you want.
+<h2>Creating a Database:</h2>
+<h2>Creating Tables:</h2>
+<h2>Simulating Data:</h2>
+-Random Integers:
+(CAST(ROUND(RAND() * 900 + 100, 0) AS INT)
